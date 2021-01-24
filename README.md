@@ -5,7 +5,7 @@ Extract, Transform and Load (ETL) is the general procedure of copying data from 
 
 For this project we explored the Lord of The Ring movie series and decided to build a postgresSQL data base that make it easy to access needed information about the movies, characters, chapters and dialogues. Movies data sets were downloaded from Kaggle and can be found here: [LOTR](https://www.kaggle.com/mokosan/lord-of-the-rings-character-data).
 
-# Etl Work:
+# ETL Work:
 
 # 1- Extract: 
 Data in CSV files format was extracted from Kaggle [LOTR](https://www.kaggle.com/mokosan/lord-of-the-rings-character-data). Total of three seperate CSV files were doanloaded. Each file contain different information about the movies. 
