@@ -27,6 +27,6 @@ We used pgAdmin 4 and PostgresSQL to build and store our database. Final databas
 The way we created and relate our tables realy makes it very easy for a user to querry multible factors about the movies at  once. 
 
 # Conclusion:
-This was a fun project to do and it realy teach you a lot about data engineering and how to contruct a relational dtabase. ETL work is widely utilized by many industries today and it is a big bounus to learn how to do it..
+This was a fun project to do and it realy teach you a lot about data engineering and how to contruct a relational database. ETL work is widely utilized by many industries today and it is a big bounus to learn how to do it..
 
 
