@@ -11,7 +11,7 @@ For this project we explored the Lord of The Ring movie series and decided to bu
 Data in CSV files format was extracted from Kaggle [LOTR](https://www.kaggle.com/mokosan/lord-of-the-rings-character-data). Total of three seperate CSV files were doanloaded. Each file contain different information about the movies. 
 
 **2- Transform:** 
-Python, jupyter notebook and pandas were utilized to do data cleanup and add unique IDs to each data set. we used QuickDBD website [QuickDBD](https://www.quickdatabasediagrams.com/) to build four tables [here](ETL Project DBD Schema.png) and Schemas [here](ETL_Schema.sql). Primary and Foreign keys were unitlized to build relations between tables. 
+Python, jupyter notebook and pandas were utilized to do data cleanup and add unique IDs to each data set. we used QuickDBD website [QuickDBD](https://www.quickdatabasediagrams.com/) to build four tables [here](ETL_Project_DBD_Schema.png) and Schemas [here](ETL_Schema.sql). Primary and Foreign keys were unitlized to build relations between tables. 
 
 **3- Load:**
 We used pgAdmin 4 and PostgresSQL to build and store our database. Final database consist of four tables.
