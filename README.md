@@ -41,13 +41,14 @@ For this project we explored the Lord of The Ring movie series and decided to bu
 ![table schema](SQL_files/schema.sql)
 ![schema](SQL_files/schem.png)   
 
-### Load:
+### 3- Load:
 
 We used pgAdmin 4 and PostgresSQL to build and store our database.
 
-  * Imported each CSV file into the corresponding SQL table.
-  * Our DataBase is completed, we move to next phase.
+  * Created an engine connection to PostgressSQL.
+  * Exported each DataFrame file into the corresponding SQL table.
   * We created tables in the correct order to handle foreign keys.
+  * Our DataBase is completed.
 
 **Final database consist of four tables:**
 
