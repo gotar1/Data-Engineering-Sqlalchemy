@@ -50,13 +50,13 @@ We used pgAdmin 4 and PostgresSQL to build and store our DataBase.
   * We created tables in the correct order to handle foreign keys.
   * Our DataBase is completed.
 
-**Final database consist of four tables:**
+**Final DataBase consist of four tables:**
 
 1- Films: Contain informations about movie length, budget, awards and ratings.
 
 2- Characters: Shows the movie characters and their race.
 
-3- Chapters: Break the movies down into chapters similar to what the LOTR books show.
+3- Film_Chapters: Break the movies down into chapters similar to what the LOTR books show.
 
 4- Dialogues: Here we put into a separate table the words spoken by characters during the movie.
 
