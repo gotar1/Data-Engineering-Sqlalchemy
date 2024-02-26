@@ -1,7 +1,7 @@
 # ETL Project - Lord of The Rings DataBase
 --------------------------------
 
-![LOTR]([https://thumbs.gfycat.com/FailingLiquidFlies-small.gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHczZTYxcHFlNnoyMnMyamViN20yazMwdmZhcTdtcjIxY29icmp0cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/J1YE1JI3wXeRvvjzSo/giphy.gif))
+![LOTR](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHczZTYxcHFlNnoyMnMyamViN20yazMwdmZhcTdtcjIxY29icmp0cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/J1YE1JI3wXeRvvjzSo/giphy.gif)
 
 
 ## Introduction:
